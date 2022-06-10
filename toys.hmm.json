@@ -1,0 +1,11 @@
+{
+    "general": {
+        "0": "hello, world"
+    },
+    "catergorised": {
+        "C": {
+            "0": "เราสามารถตั้ง idenfier ได้ยาวที่สุดกี่ตัวอักษร",
+            "1": "ตั้งชื่อตัวแปรจน stack/heap overflow ได้ไหม"
+        }
+    }
+}
