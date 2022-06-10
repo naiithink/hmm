@@ -24,6 +24,7 @@ if File.exist?(HMM_FILE_NAME) && !File.zero?(HMM_FILE_NAME)
     HMM_FILE = File.open HMM_FILE_NAME
 elsif !File.exist?(HMM_FILE_NAME)
     puts "\u{1F64A} omg, lost toys."
+    prep_exit 1
 else
     puts "\u{1F64A} hmm, it looks like your toys are broken."
     prep_exit 1
