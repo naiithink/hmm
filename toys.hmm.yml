@@ -1,0 +1,10 @@
+---
+general:
+  0: "hello, world"
+  1: "ทำไม Google ถึง suggest 'vi' เวลา search 'emacs' และ vice versa"
+categorised:
+  C:
+    0: "ตั้ง identifier ได้ยาวที่สุดกี่ตัวอักษร"
+    1: "ตั้งชื่อตัวแปรให้ยาวจน stack/heap overflow ได้ไหม"
+    2: "How to declare an array of arrays of pointers to function"
+...
