@@ -30,4 +30,8 @@ else
     prep_exit 1
 end
 
+
+hmm_contents = JSON.parse(HMM_FILE.read)
+puts hmm_contents["general"]["0"]
+
 prep_exit 0
